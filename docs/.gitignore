@@ -1,3 +1,6 @@
-*.sw?
-_site
-_pages
+_site/
+.sass-cache/
+.jekyll-metadata
+_pdf
+.DS_Store
+.idea
