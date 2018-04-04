@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Jekyll Docs Template"
+layout: doc
+title: "My test site
 ---
 
 ### Get Started
